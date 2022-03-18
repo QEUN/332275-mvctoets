@@ -7,4 +7,4 @@
 
 ?>
 HOME PAGE<br>
-<a href="/fruits/index" class="btn btn-primary">Fruits</a>
+<a href="/countries/index" class="btn btn-primary">landen</a>
